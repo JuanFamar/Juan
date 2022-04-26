@@ -3,4 +3,6 @@ body{
 }
 p{
     background-color: aliceblue;
+    margin-top: 20 px;
+    border: 1px solid white;
 }
